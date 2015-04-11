@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <string name="app_name">美啊</string>
+    
+    <string name="tab_home">美啊</string>
+    <string name="tab_discover">美丽</string>
+    <string name="tab_buy">美购</string>
+    <string name="tab_personal">我的</string>
+    
+    <string name="home_title">美啊</string>
+    <string name="home_subtitle">致力于中国女性的健康快乐</string>
+    <string name="home_button_category">分类</string>
+    <string name="home_button_message">消息</string>
+    
+    
+    <string name="discover_title">联系电话：</string>
+    <string name="discover_subtitle">029-89295828</string>
+    <string name="discover_button_message">留言</string>
+    <string name="discover_button_call">拨打</string>
+    
+    <string name="buy_title">美啊</string>
+    
+    <string name="personal_title">美啊</string>
+    
+    <string name="action_search">搜索</string>
+    <string name="action_booking">预约</string>
+    <string name="action_scan">扫一扫</string>
+    <string name="action_bookmark">收藏</string>
+    <string name="action_feedback">意见反馈</string>
+    <string name="action_add">添加</string>
+    
+    
+
+</resources>
